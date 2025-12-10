@@ -68,7 +68,8 @@ I conducted four experiments representing varying levels of transformativeness: 
 
 #### Experiment 1A — Short Raw Clip (~12 seconds)
 
-**Description:** A 12-second unmodified clip from *Diary of a Wimpy Kid*, uploaded without any edits, commentary, or additional content.
+**Description:** A 12-second unmodified clip from *Diary of a Wimpy Kid*, uploaded without any edits, commentary, or additional content.  
+**Video URL:** https://youtu.be/wlQo39an8Hk
 
 **Upload Screenshot:**
 
@@ -89,7 +90,8 @@ I conducted four experiments representing varying levels of transformativeness: 
 
 #### Experiment 1B — Long Raw Clip (~39 seconds)
 
-**Description:** A 39-second unedited clip from *Diary of a Wimpy Kid*, testing whether longer duration increases Content ID detection likelihood.
+**Description:** A 39-second unedited clip from *Diary of a Wimpy Kid*, testing whether longer duration increases Content ID detection likelihood.  
+**Video URL:** https://youtu.be/AEmlXQ7dkXY
 
 **Upload Screenshot:**
 
@@ -112,7 +114,8 @@ I conducted four experiments representing varying levels of transformativeness: 
 
 ### Experiment 2 — Commentary/Criticism Clip
 
-**Description:** A copyrighted film clip combined with original spoken commentary analyzing aspects of the scene. Commentary and criticism represent one of the clearest categories of transformative fair use. Video length: 37 seconds.
+**Description:** A copyrighted film clip combined with original spoken commentary analyzing aspects of the scene. Commentary and criticism represent one of the clearest categories of transformative fair use. Video length: 37 seconds.  
+**Video URL:** https://youtu.be/L9G6KxWpn_I
 
 **Upload Screenshot:**
 
@@ -137,7 +140,8 @@ I conducted four experiments representing varying levels of transformativeness: 
 
 **Description:** For this experiment, I used a short excerpt from the following YouTube video:
 
-**Source:** [https://www.youtube.com/watch?v=TP7Z_Eqxhxk](https://www.youtube.com/watch?v=TP7Z_Eqxhxk)
+**Source:** [https://www.youtube.com/watch?v=TP7Z_Eqxhxk](https://www.youtube.com/watch?v=TP7Z_Eqxhxk)  
+**Uploaded Video URL:** https://youtu.be/ljMc_EXLk6E
 
 I added original verbal educational commentary explaining techniques shown in the clip. Educational uses are strongly recognized as fair use when they add instructional value beyond the original. Video length: 21 seconds.
 
@@ -171,6 +175,8 @@ I tested how YouTube treats AI-generated content across three categories: direct
 **Prompt:**
 > "Create an image of SpongeBob SquarePants standing on a surfboard, surfing a giant wave, in vibrant cartoon style."
 
+**Video URL:** https://youtube.com/shorts/7rhte4HoJxE?feature=share
+
 **Generated Image:**
 
 ![AI Direct Reference - SpongeBob](screenshots/spongebob.png)
@@ -199,6 +205,8 @@ I tested how YouTube treats AI-generated content across three categories: direct
 **Prompt:**
 > "Create an original landscape scene drawn in the animation style of Studio Ghibli, featuring soft lighting, detailed foliage, and a peaceful atmosphere."
 
+**Video URL:** https://youtube.com/shorts/pgu3Txv6iok?feature=share
+
 **Generated Image:**
 
 ![AI Style Mimicry - Ghibli Style](screenshots/contentfrominspo.png)
@@ -226,6 +234,8 @@ I tested how YouTube treats AI-generated content across three categories: direct
 
 **Prompt:**
 > "Create an entirely original futuristic cityscape with glowing neon lights, floating vehicles, and unique architectural structures. Avoid referencing any known movies, games, or franchises."
+
+**Video URL:** https://youtu.be/8dwId06KLkA
 
 **Generated Image:**
 
@@ -417,4 +427,4 @@ All uploads were checked immediately upon upload completion. As of the time of t
 - 17 U.S.C. § 107 (Fair Use)
 - U.S. Copyright Office, Fair Use Index: [https://www.copyright.gov/fair-use/](https://www.copyright.gov/fair-use/)
 - YouTube Copyright Center: [https://www.youtube.com/howyoutubeworks/policies/copyright/](https://www.youtube.com/howyoutubeworks/policies/copyright/)
-- YouTube Transparency Report: [https://transparencyreport.google.com/youtube-policy/](https://transparencyreport.google.com/youtube-policy/)
+- YouTube Transparency Report: [https://transparencyreport.google.com/youtube-policy/](https://transparencyreport.google.com/youtube-policy/)https://www.youtube.com/shorts/pgu3Txv6iokhttps://www.youtube.com/shorts/7rhte4HoJxEhttps://www.youtube.com/watch?v=8dwId06KLkAhttps://www.youtube.com/watch?v=ljMc_EXLk6E&feature=youtu.be https://www.youtube.com/watch?v=L9G6KxWpn_I https://www.youtube.com/watch?v=AEmlXQ7dkXY https://www.youtube.com/watch?v=wlQo39an8Hk
