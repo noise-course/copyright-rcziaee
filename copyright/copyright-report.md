@@ -175,7 +175,7 @@ I tested how YouTube treats AI-generated content across three categories: direct
 **Prompt:**
 > "Create an image of SpongeBob SquarePants standing on a surfboard, surfing a giant wave, in vibrant cartoon style."
 
-**Video URL:** https://youtube.com/shorts/7rhte4HoJxE?feature=share
+**Video URL:** https://youtube.com/shorts/7rhte4HoJxE
 
 **Generated Image:**
 
@@ -205,7 +205,7 @@ I tested how YouTube treats AI-generated content across three categories: direct
 **Prompt:**
 > "Create an original landscape scene drawn in the animation style of Studio Ghibli, featuring soft lighting, detailed foliage, and a peaceful atmosphere."
 
-**Video URL:** https://youtube.com/shorts/pgu3Txv6iok?feature=share
+**Video URL:** https://youtube.com/shorts/pgu3Txv6iok
 
 **Generated Image:**
 
@@ -408,11 +408,23 @@ Across **seven total uploads** (four fair use experiments + three AI experiments
 | AI-2: Style Mimicry | `contentfrominspo.png` | Ghibli-style landscape |
 | AI-3: Original | `aicontent.png` | Futuristic cityscape |
 
-### 5.3 External Links
+### 5.3 Uploaded Video Links
+
+| Experiment | Video URL |
+|------------|-----------|
+| 1A: Short raw clip | https://youtu.be/wlQo39an8Hk |
+| 1B: Long raw clip | https://youtu.be/AEmlXQ7dkXY |
+| 2: Commentary | https://youtu.be/L9G6KxWpn_I |
+| 3: Educational | https://youtu.be/ljMc_EXLk6E |
+| AI-1: SpongeBob | https://youtube.com/shorts/7rhte4HoJxE |
+| AI-2: Ghibli style | https://youtube.com/shorts/pgu3Txv6iok |
+| AI-3: Original | https://youtu.be/8dwId06KLkA |
+
+### 5.4 External Sources
 
 - Educational source video: [https://www.youtube.com/watch?v=TP7Z_Eqxhxk](https://www.youtube.com/watch?v=TP7Z_Eqxhxk)
 
-### 5.4 Note on Detection Timeline
+### 5.5 Note on Detection Timeline
 
 All uploads were checked immediately upon upload completion. As of the time of this report (approximately 24 hours after the most recent uploads), no copyright claims have been registered against any of the experimental content. YouTube's documentation indicates that Content ID typically detects content within minutes of upload, suggesting these results reflect genuine non-detection rather than delayed processing.
 
@@ -427,4 +439,4 @@ All uploads were checked immediately upon upload completion. As of the time of t
 - 17 U.S.C. § 107 (Fair Use)
 - U.S. Copyright Office, Fair Use Index: [https://www.copyright.gov/fair-use/](https://www.copyright.gov/fair-use/)
 - YouTube Copyright Center: [https://www.youtube.com/howyoutubeworks/policies/copyright/](https://www.youtube.com/howyoutubeworks/policies/copyright/)
-- YouTube Transparency Report: [https://transparencyreport.google.com/youtube-policy/](https://transparencyreport.google.com/youtube-policy/)https://www.youtube.com/shorts/pgu3Txv6iokhttps://www.youtube.com/shorts/7rhte4HoJxEhttps://www.youtube.com/watch?v=8dwId06KLkAhttps://www.youtube.com/watch?v=ljMc_EXLk6E&feature=youtu.be https://www.youtube.com/watch?v=L9G6KxWpn_I https://www.youtube.com/watch?v=AEmlXQ7dkXY https://www.youtube.com/watch?v=wlQo39an8Hk
+- YouTube Transparency Report: [https://transparencyreport.google.com/youtube-policy/](https://transparencyreport.google.com/youtube-policy/)
